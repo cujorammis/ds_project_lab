@@ -2,3 +2,6 @@ I Think
 Dan 
 is 
 Cool
+Hi Dan
+How are you
+?
